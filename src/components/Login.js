@@ -96,7 +96,7 @@ const Login = () => {
     <div className="">
       <Header />
       <div className="absolute">
-        <img className="h-screen w-screen" src={LOGIN_BG} alt="kk" />
+        <img className="h-screen w-screen" src={LOGIN_BG} alt="image" />
       </div>
       <form
         onSubmit={(e) => e.preventDefault()}
